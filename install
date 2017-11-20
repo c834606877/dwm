@@ -1,0 +1,6 @@
+install 
+xsession desktop
+xinitrc
+start dwm from gdm
+
+start from  gdm
